@@ -24,7 +24,7 @@ With over five years at Coca-Cola Canada Bottling Limited, I bring expertise in 
 ## 🛠️ Skills
 - **Frontend**: React, Redux, SASS, Bootstrap
 - **Backend**: Node.js, MongoDB, PostgreSQL
-- **Tools**: Git, VS Code, Trello, Excel (Advanced Macros)
+- **Tools**: Git, VS Code, Trello
 
 ## 🌟 Projects
 
