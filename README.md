@@ -90,7 +90,7 @@ Southern Alberta Institute of Technology
 ## 📫 Connect With Me
 
 - 📧 Email: [ijromerob@gmail.com](mailto:ijromerob@gmail.com)
-- 💼 LinkedIn: [Ivan J. Romero]([https://linkedin.com/in/ijromero])
+- 💼 LinkedIn: [Ivan J. Romero](https://www.linkedin.com/in/ivanromero15)
 
 ---
 
